@@ -1,8 +1,9 @@
 public class Main{
 	public static void main(String a[]){
-		int a=10, b=20, c;
+		int a=50;
+		int b=45;
 		c=a-b;
-		System.out.printl(c);
+		System.out.println(c);
 	}
 }
 
